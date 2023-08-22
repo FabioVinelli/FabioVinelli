@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabioVinelli
-- 👀 I’m interested in Blockchain and crypto currencies
+- 👀 I’m interested in Bitcoin and Blockchain.
 - 🌱 I’m currently learning Blockchain and solutions for Banks
 - 💞️ I’m looking to collaborate on blockchain products for south america.
 - 📫 How to reach me fabiovinellli@gmail.com
