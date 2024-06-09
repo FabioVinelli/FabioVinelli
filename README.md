@@ -1,10 +1,17 @@
 - 👋 Hi, I’m @FabioVinelli
-- 👀 I’m interested in Bitcoin and Blockchain.
-- 🌱 I’m currently learning Blockchain and solutions for Banks
-- 💞️ I’m looking to collaborate on blockchain products for south america.
-- 📫 How to reach me fabiovinellli@gmail.com
 
-<!---
-FabioVinelli/FabioVinelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bio:
+ * Healthcare & Finance | Bitcoin On-chain Analyst | 
+ * Skilled in Fabric, OpenAI GPT (LLMs), Hugging Face, & Nvidia NeMo
+ * Exploring Agentic, Autogen, CrewAI, & LangChain-Langgraph Agents
+Focus Areas:
+ * AI applications in healthcare and finance
+Looking to Collaborate on:
+* AI/LLM/ML 
+* South American blockchain projects
+Contact:
+ * Email: fabiovinellli@gmail.com
+
+
+
+
